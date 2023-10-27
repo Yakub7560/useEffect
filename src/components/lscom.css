@@ -1,0 +1,15 @@
+.lsofcom{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 10px 0 100px; 
+}
+.lsofcom button{
+   width: 100px;
+   height: 50px;
+   margin: 0 10px;
+   border-radius: 10px;
+   text-transform: uppercase;
+   border: 2px solid rgb(192, 150, 150);
+   color: rgb(10, 66, 250);
+}
