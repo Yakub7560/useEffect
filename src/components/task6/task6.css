@@ -1,0 +1,28 @@
+.bnts{
+   display: flex;
+
+}
+.container{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 500px;
+   margin: 0 auto;
+   font-size: 20px;
+}
+button{
+   width: 100px;
+   height: 50px;
+   margin-bottom: 20px;
+   
+}
+.counter{
+   display: flex;
+   width: 200px;
+   height: 50px;
+   border: 1px solid red;
+   align-items: center;
+   justify-content: center;
+ 
+
+}
